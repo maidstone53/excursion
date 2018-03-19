@@ -3,16 +3,27 @@ body {
   text-align: center;
   background-color: black;
   color: white;
+  align-items: center;
 }
 title h1 {
   text-align: center;
   font-weight: normal;
   font-size: 50px;
-
 }
 a {
   text-align: center;
   color: Aquamarine;
   font-size: 16px;
-
+}
+.camp h3 {
+  color: grey;
+  font-size: 21px;
+}
+.camp h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+.footer {
+  text-align: right;
+  color: grey;
 }
